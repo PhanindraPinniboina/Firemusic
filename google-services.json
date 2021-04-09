@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "331279182316",
+    "firebase_url": "https://firemusic-41152.firebaseio.com",
+    "project_id": "firemusic-41152",
+    "storage_bucket": "firemusic-41152.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331279182316:android:e109d7dbc89fe51c4db8c9",
+        "android_client_info": {
+          "package_name": "com.pinniboina.firemusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331279182316-5fba6hv7bm1plrnncs8hdellngfajgho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsmhV-hOEBv22sHcwplC5tenUt1m1fNU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331279182316-5fba6hv7bm1plrnncs8hdellngfajgho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
