@@ -1,7 +1,8 @@
 # Firemusic
 
-![login](Images/login.jpg)
-![Choose Image](Images/choose.png)
 
+
+![login](Images/login.jpg)
+![welcome](Images/welcome.jpg)
 
 
